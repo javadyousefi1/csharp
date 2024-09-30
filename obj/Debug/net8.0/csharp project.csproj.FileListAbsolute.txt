@@ -1,0 +1,15 @@
+C:\javad-yousefi\c#\csharp project\bin\Debug\net8.0\csharp project.exe
+C:\javad-yousefi\c#\csharp project\bin\Debug\net8.0\csharp project.deps.json
+C:\javad-yousefi\c#\csharp project\bin\Debug\net8.0\csharp project.runtimeconfig.json
+C:\javad-yousefi\c#\csharp project\bin\Debug\net8.0\csharp project.dll
+C:\javad-yousefi\c#\csharp project\bin\Debug\net8.0\csharp project.pdb
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.GeneratedMSBuildEditorConfig.editorconfig
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.AssemblyInfoInputs.cache
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.AssemblyInfo.cs
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.csproj.CoreCompileInputs.cache
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.sourcelink.json
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.dll
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\refint\csharp project.dll
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.pdb
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\csharp project.genruntimeconfig.cache
+C:\javad-yousefi\c#\csharp project\obj\Debug\net8.0\ref\csharp project.dll
