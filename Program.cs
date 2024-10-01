@@ -113,12 +113,31 @@ namespace HelloWorld
                 Console.WriteLine(i);
             }
 
-
-            string password = Console.ReadLine();
-            Console.WriteLine(password);
+            // string password = Console.ReadLine();
+            // Console.WriteLine(password);
 
             int parsedItem = int.Parse("5");
             Console.WriteLine(parsedItem);
+
+            // aditional topic
+
+            // array
+            string[] names = new string[10];
+
+            names[0] = "haj javad";
+
+            Console.WriteLine(names[0]);
+
+            // functions
+
+            Console.WriteLine(Sum(1, 5));
+        }
+
+        public static int Sum(int num1, int num2)
+        {
+            int result = num1 + num2;
+
+            return result;
         }
     }
 }
